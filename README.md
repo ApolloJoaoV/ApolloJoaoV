@@ -6,10 +6,10 @@
 
 <!-- Badges -->
 <p align="center">
-  <a href="https://github.com/TGR">
+  <a href="https://github.com/ApolloJoaoV">
     <img src="https://img.shields.io/github/followers/TGR?label=Seguidores&style=for-the-badge">
   </a>
-  <a href="https://github.com/TGR">
+  <a href="https://github.com/ApolloJoaoV">
     <img src="https://img.shields.io/github/stars/TGR?label=Stars&style=for-the-badge">
   </a>
   <img src="https://img.shields.io/badge/Código-PHP%20%7C%20Laravel%20%7C%20jQuery-blue?style=for-the-badge">
