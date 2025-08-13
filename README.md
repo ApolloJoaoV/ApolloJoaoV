@@ -40,14 +40,6 @@ Minha abordagem é **orientada a performance, segurança e escalabilidade**, sem
 
 ---
 
-## 📊 Estatísticas do GitHub
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=tgrstudio&show_icons=true&theme=radical&count_private=true&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tgrstudio&layout=compact&theme=radical&hide_border=true" />
-</p>
-
----
-
 ## 📫 Como me encontrar
 <p align="center">
   <a href="mailto:apollojoaov@gmail.com"><img src="https://img.shields.io/badge/Email-Contato-red?style=for-the-badge&logo=gmail"></a>
