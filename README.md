@@ -1,8 +1,3 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://i.imgur.com/6nGqjPp.gif" width="100%" alt="Banner animado com código">
-</p>
-
 <!-- Título -->
 <h1 align="center">👋 Olá, eu sou o <strong>João</strong>!</h1>
 <p align="center">
@@ -23,24 +18,25 @@
 ---
 
 ## 🚀 Sobre mim
-- 💻 Especialista em **PHP, Laravel (atualmente usando Laravel 12)** e **jQuery**  
-- 🔌 Integrações complexas com APIs, manipulação avançada de DOM e **UX focada em performance**  
+
+Sou **Desenvolvedor Web Pleno** com experiência sólida em **PHP, Laravel, MySQL, JavaScript e APIs REST**, atuando no desenvolvimento de sistemas de gestão, e-commerces, websites e integrações complexas.  
+
+Atualmente, como **Head Developer na TGR Studio Digital**, lidero o desenvolvimento de soluções escaláveis e seguras, conduzindo reuniões técnicas com clientes, definindo arquitetura de sistemas e gerenciando equipes para garantir entregas de alta qualidade dentro dos prazos.  
+
+Tenho passagens por empresas como:
+- **USYS** – Desenvolvimento de plataforma de fiança locatícia adquirida pela QuintoAndar, com foco em robustez, segurança e performance.  
+- **RSA Soluções em TI** – Criação de sistemas personalizados com CodeIgniter, garantindo soluções sob medida para clientes de diversos segmentos.  
+- **Krafti Tecnologia** – Otimização e manutenção de um marketplace B2B, melhorando a eficiência operacional e a experiência do usuário.  
+
+Minha abordagem é **orientada a performance, segurança e escalabilidade**, sempre aplicando as melhores práticas de desenvolvimento e garantindo a satisfação do cliente.
+
 
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
 <p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,js,jquery,bootstrap,tailwind,html,css,mysql,git,figma,vscode" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,js,mysql,jquery,bootstrap,html,css,git,vscode,angular,cloudflare,docker,nodejs,postgres" />
 </p>
-
----
-
-## 📌 Projetos em Destaque
-| Projeto | Descrição | Tecnologias |
-|---------|-----------|-------------|
-| **Sistema de PDV Integrado** | PDV web com emissão de NFC-e e integração com API fiscal | Laravel, jQuery, MySQL |
-| **Dashboard Interativo** | Relatórios em tempo real com gráficos dinâmicos | Laravel, ApexCharts, Tailwind |
-| **E-commerce Customizado** | Loja com checkout rápido, gateway de pagamento e CMS interno | Laravel, jQuery, Bootstrap |
 
 ---
 
@@ -54,13 +50,12 @@
 
 ## 📫 Como me encontrar
 <p align="center">
-  <a href="mailto:seuemail@dominio.com"><img src="https://img.shields.io/badge/Email-Contato-red?style=for-the-badge&logo=gmail"></a>
-  <a href="https://www.linkedin.com/in/seu-linkedin/"><img src="https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://tgrstudio.com.br"><img src="https://img.shields.io/badge/Portfólio-Site-success?style=for-the-badge&logo=google-chrome"></a>
+  <a href="mailto:apollojoaov@gmail.com"><img src="https://img.shields.io/badge/Email-Contato-red?style=for-the-badge&logo=gmail"></a>
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-apollo/"><img src="https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin"></a>
 </p>
 
 ---
 
 <p align="center">
-  <i>"Código limpo, design moderno e performance em primeiro lugar."</i>
+  <i>"Código limpo e performance em primeiro lugar."</i>
 </p>
