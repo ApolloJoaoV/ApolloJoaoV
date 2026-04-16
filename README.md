@@ -1,53 +1,55 @@
-<!-- Título -->
-<h1 align="center">👋 Olá, eu sou o <strong>João</strong>!</h1>
+<!-- Title -->
+<h1 align="center">👋 Hi, I'm <strong>João</strong>!</h1>
 <p align="center">
-  <i>Desenvolvedor Web • Especialista em PHP | Laravel</i>
+  <i>Web Developer • PHP | Laravel Specialist</i>
 </p>
 
 <!-- Badges -->
 <p align="center">
   <a href="https://github.com/ApolloJoaoV">
-    <img src="https://img.shields.io/github/followers/ApolloJoaoV?label=Seguidores&style=for-the-badge">
+    <img src="https://img.shields.io/github/followers/ApolloJoaoV?label=Followers&style=for-the-badge">
   </a>
   <a href="https://github.com/ApolloJoaoV">
     <img src="https://img.shields.io/github/stars/ApolloJoaoV?label=Stars&style=for-the-badge">
   </a>
-  <img src="https://img.shields.io/badge/Código-PHP%20%7C%20Laravel%20%7C%20jQuery-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Code-PHP%20%7C%20Laravel%20%7C%20jQuery-blue?style=for-the-badge">
 </p>
 
 ---
 
-## 🚀 Sobre mim
+## 🚀 About Me
 
-Sou **Desenvolvedor Web Pleno** com experiência sólida em **PHP, Laravel, MySQL, JavaScript e APIs REST**, atuando no desenvolvimento de sistemas de gestão, e-commerces, websites e integrações complexas.  
+I'm a **Mid-Level Web Developer** with solid experience in **PHP, Laravel, MySQL, JavaScript, and REST APIs**, working on the development of management systems, e-commerces, websites, and complex integrations.
 
-Atualmente, como **Head Developer na TGR Studio Digital**, lidero o desenvolvimento de soluções escaláveis e seguras, conduzindo reuniões técnicas com clientes, definindo arquitetura de sistemas e gerenciando equipes para garantir entregas de alta qualidade dentro dos prazos.  
+Currently, as **Head Developer at TGR Studio Digital**, I lead the development of scalable and secure solutions, conducting technical meetings with clients, defining system architecture, and managing teams to ensure high-quality deliveries on time.
 
-Tenho passagens por empresas como:
-- **USYS** – Desenvolvimento de plataforma de fiança locatícia adquirida pela QuintoAndar, com foco em robustez, segurança e performance.  
-- **RSA Soluções em TI** – Criação de sistemas personalizados com CodeIgniter, garantindo soluções sob medida para clientes de diversos segmentos.  
-- **Krafti Tecnologia** – Otimização e manutenção de um marketplace B2B, melhorando a eficiência operacional e a experiência do usuário.  
+I have experience at companies such as:
 
-Minha abordagem é **orientada a performance, segurança e escalabilidade**, sempre aplicando as melhores práticas de desenvolvimento e garantindo a satisfação do cliente.
+- **USYS** – Development of a rental guarantee platform acquired by QuintoAndar, focused on robustness, security, and performance.
+- **RSA Soluções em TI** – Creation of custom systems with CodeIgniter, delivering tailored solutions for clients across various industries.
+- **Krafti Tecnologia** – Optimization and maintenance of a B2B marketplace, improving operational efficiency and user experience.
 
+My approach is **performance-, security-, and scalability-oriented**, always applying best development practices and ensuring client satisfaction.
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## 🛠️ Technologies & Tools
+
 <p>
   <img src="https://skillicons.dev/icons?i=php,laravel,js,mysql,jquery,bootstrap,html,css,git,vscode,angular,cloudflare,docker,nodejs,postgres" />
 </p>
 
 ---
 
-## 📫 Como me encontrar
+## 📫 How to Reach Me
+
 <p align="center">
-  <a href="mailto:apollojoaov@gmail.com"><img src="https://img.shields.io/badge/Email-Contato-red?style=for-the-badge&logo=gmail"></a>
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-apollo/"><img src="https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="mailto:apollojoaov@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"></a>
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-apollo/"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin"></a>
 </p>
 
 ---
 
 <p align="center">
-  <i>"Código limpo e performance em primeiro lugar."</i>
+  <i>"Clean code and performance first."</i>
 </p>
